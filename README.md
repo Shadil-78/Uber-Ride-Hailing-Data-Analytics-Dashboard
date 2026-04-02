@@ -20,7 +20,7 @@ This project features a comprehensive Power BI Dashboard analyzing a dataset of 
 
 | Home Page | Executive Overview |
 |---|---|
-| ![Home](screenshots/Home.png) | ![Overview](screenshots/Overview.png) |
+| ![Home](Home.png) | ![Overview](screenshots/Overview.png) |
 
 | Vehicle Analysis | Revenue Insights |
 |---|---|
