@@ -16,11 +16,16 @@ This project features a comprehensive Power BI Dashboard analyzing a dataset of 
 * **Language:** DAX (for complex measures) and Power Query (for ETL)
 * **Visuals:** Custom icons and conditional formatting for enhanced UX
 
+>
+
 <p align="center">
-  <img src="Dashboard img" width="800" title="Uber Ride-Hailing Data AnalyticsDashboard">
+  <img src="screenshots/Home.png" width="800">
 </p>
 
-
+<p align="center">
+  <img src="screenshots/Overview.png" width="400">
+  <img src="screenshots/Revenue.png" width="400">
+</p>
 
 
 
