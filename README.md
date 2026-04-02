@@ -23,8 +23,8 @@ This project features a comprehensive Power BI Dashboard analyzing a dataset of 
 </p>
 
 <p align="center">
-  <img src="screenshots/Overview.png" width="400">
-  <img src="screenshots/Revenue.png" width="400">
+  <img src="Dashboard img/Overview.png" width="400">
+  <img src="Dashboard img/Revenue.png" width="400">
 </p>
 
 
