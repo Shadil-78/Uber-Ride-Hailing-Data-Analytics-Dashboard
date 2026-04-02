@@ -16,35 +16,12 @@ This project features a comprehensive Power BI Dashboard analyzing a dataset of 
 * **Language:** DAX (for complex measures) and Power Query (for ETL)
 * **Visuals:** Custom icons and conditional formatting for enhanced UX
 
-# Uber Analytics Dashboard Gallery
-
 <p align="center">
-  <img src="screenshots/Home.png" width="800" alt="Home Page">
-  <br>
-  <b>Main Navigation Hub</b>
+  <img src="Home.png" width="800" title="RFM Analysis Dashboard">
 </p>
 
----
 
-<p align="center">
-  <img src="screenshots/Overview.png" width="400" alt="Executive Overview">
-  <img src="screenshots/Revenue.png" width="400" alt="Revenue Analysis">
-  <br>
-  <i>Executive Overview (Left) and Revenue Deep-Dive (Right)</i>
-</p>
 
-<p align="center">
-  <img src="screenshots/Vehicle.png" width="400" alt="Vehicle Performance">
-  <img src="screenshots/Location.png" width="400" alt="Location Intelligence">
-  <br>
-  <i>Vehicle Segmentation (Left) and Geospatial Trends (Right)</i>
-</p>
-
-<p align="center">
-  <img src="screenshots/Rider.png" width="400" alt="Rider Ratings">
-  <br>
-  <i>Customer & Driver Satisfaction Analysis</i>
-</p>
 
 
 ## 📈 Business Insights Derived
