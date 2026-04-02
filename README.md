@@ -45,7 +45,7 @@ This project features a comprehensive Power BI Dashboard analyzing a dataset of 
 </p>
 
 <p align="center">
-  <img src="screenshots/Rider.png" width="400" alt="Rider Ratings">
+  <img src="Dashboard img/Rider.png" width="400" alt="Rider Ratings">
   <br>
   <span>Customer & Driver Satisfaction Analysis</span>
   <br>
