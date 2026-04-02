@@ -17,7 +17,7 @@ This project features a comprehensive Power BI Dashboard analyzing a dataset of 
 * **Visuals:** Custom icons and conditional formatting for enhanced UX
 
 <p align="center">
-  <img src="Home.png" width="800" title="Uber Ride-Hailing Data AnalyticsDashboard">
+  <img src="Dashboard img" width="800" title="Uber Ride-Hailing Data AnalyticsDashboard">
 </p>
 
 
