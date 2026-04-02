@@ -16,19 +16,36 @@ This project features a comprehensive Power BI Dashboard analyzing a dataset of 
 * **Language:** DAX (for complex measures) and Power Query (for ETL)
 * **Visuals:** Custom icons and conditional formatting for enhanced UX
 
-## 📊 Dashboard Preview
+# Uber Analytics Dashboard Gallery
 
-| Home Page | Executive Overview |
-|---|---|
-| ![Home](Home.png) | ![Overview](screenshots/Overview.png) |
+<p align="center">
+  <img src="screenshots/Home.png" width="800" alt="Home Page">
+  <br>
+  <b>Main Navigation Hub</b>
+</p>
 
-| Vehicle Analysis | Revenue Insights |
-|---|---|
-| ![Vehicle](screenshots/Vehicle.png) | ![Revenue](screenshots/Revenue.png) |
+---
 
-| Location Trends | Rider Ratings |
-|---|---|
-| ![Location](screenshots/Location.png) | ![Rider](screenshots/Rider.png) |
+<p align="center">
+  <img src="screenshots/Overview.png" width="400" alt="Executive Overview">
+  <img src="screenshots/Revenue.png" width="400" alt="Revenue Analysis">
+  <br>
+  <i>Executive Overview (Left) and Revenue Deep-Dive (Right)</i>
+</p>
+
+<p align="center">
+  <img src="screenshots/Vehicle.png" width="400" alt="Vehicle Performance">
+  <img src="screenshots/Location.png" width="400" alt="Location Intelligence">
+  <br>
+  <i>Vehicle Segmentation (Left) and Geospatial Trends (Right)</i>
+</p>
+
+<p align="center">
+  <img src="screenshots/Rider.png" width="400" alt="Rider Ratings">
+  <br>
+  <i>Customer & Driver Satisfaction Analysis</i>
+</p>
+
 
 ## 📈 Business Insights Derived
 * **Revenue Leaders:** Identified which vehicle types generate the highest profit margins vs. booking volume.
