@@ -8,24 +8,16 @@ This project features a comprehensive Power BI Dashboard analyzing a dataset of 
 The report is divided into 6 specialized views to provide a 360-degree perspective on operations:
 
 Home Page: An interactive landing page for seamless navigation between different analytical modules.
-
 Executive Overview: High-level KPIs including Total Revenue ($51.85M), Total Bookings (93K+), and average trip metrics.
-
 Vehicle Analysis: A deep dive into the performance of different segments like Auto, Bike, Sedan, and Uber XL.
-
 Revenue Insights: Breakdown of earnings by payment method (UPI, Cash, Wallet) and ride types.
-
 Location Intelligence: Spatial analysis of pickup and drop-off hotspots to identify high-demand zones.
-
 Rider & Driver Insights: Analysis of star ratings and satisfaction levels to ensure service quality.
 
 🛠️ Tech Stack & Skills
+
 Data Visualization: Power BI Desktop
-
 Data Modeling: Star Schema design with fact and dimension tables.
-
 DAX (Data Analysis Expressions): Created complex measures for YTD Revenue, Cancellation Rates, and Dynamic Rankings.
-
 ETL Process: Data cleaning and transformation using Power Query.
-
 UI/UX: Custom-designed navigation sidebar and categorical icons for an intuitive user experience.
