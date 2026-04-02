@@ -16,43 +16,41 @@ This project features a comprehensive Power BI Dashboard analyzing a dataset of 
 * **Language:** DAX (for complex measures) and Power Query (for ETL)
 * **Visuals:** Custom icons and conditional formatting for enhanced UX
 
-<p align="center">
-  <img src="Dashboard img/Home.png" width="800" alt="Home Page">
+ <p align="center">
+  <img src="screenshots/Home.png" width="800" alt="Home Page">
   <br>
-  <b>Interactive Navigation Hub</b>
+  <span>Interactive Navigation Hub</span>
   <br>
-  <i>A centralized landing page featuring a custom sidebar for seamless navigation across all analytical modules, designed to enhance user experience and report accessibility.</i>
+  <span>A centralized landing page featuring a custom sidebar for seamless navigation across all analytical modules, designed to enhance user experience and report accessibility.</span>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="Dashboard img/Overview.png" width="400" alt="Executive Overview">
-  <img src="Dashboard img/Revenue.png" width="400" alt="Revenue Analysis">
+  <img src="screenshots/Overview.png" width="400" alt="Executive Overview">
+  <img src="screenshots/Revenue.png" width="400" alt="Revenue Analysis">
   <br>
-  <b>Executive Overview & Revenue Deep-Dive</b>
+  <span>Executive Overview & Revenue Deep-Dive</span>
   <br>
-  <i>(Left) High-level KPIs tracking $51.85M in revenue and 93K+ bookings. (Right) A granular look at financial performance, breaking down earnings by payment methods and ride success rates.</i>
+  <span>(Left) High-level KPIs tracking $51.85M in revenue and 93K+ bookings. (Right) A granular look at financial performance, breaking down earnings by payment methods and ride success rates.</span>
 </p>
 
 <p align="center">
-  <img src="Dashboard img/Vehicle.png" width="400" alt="Vehicle Performance">
-  <img src="Dashboard img/Location.png" width="400" alt="Location Intelligence">
+  <img src="screenshots/Vehicle.png" width="400" alt="Vehicle Performance">
+  <img src="screenshots/Location.png" width="400" alt="Location Intelligence">
   <br>
-  <b>Vehicle Segmentation & Geospatial Trends</b>
+  <span>Vehicle Segmentation & Geospatial Trends</span>
   <br>
-  <i>(Left) Analysis of fleet efficiency across 7 vehicle types. (Right) Geospatial mapping of pickup and drop-off hotspots to identify high-demand zones and operational gaps.</i>
+  <span>(Left) Analysis of fleet efficiency across 7 vehicle types. (Right) Geospatial mapping of pickup and drop-off hotspots to identify high-demand zones and operational gaps.</span>
 </p>
 
 <p align="center">
-  <img src="Dashboard img/Rider.png" width="400" alt="Rider Ratings">
+  <img src="screenshots/Rider.png" width="400" alt="Rider Ratings">
   <br>
-  <b>Customer & Driver Satisfaction Analysis</b>
+  <span>Customer & Driver Satisfaction Analysis</span>
   <br>
-  <i>A detailed look at service quality, correlating star ratings with trip distance and cancellation reasons to drive improvements in driver and rider retention.</i>
+  <span>A detailed look at service quality, correlating star ratings with trip distance and cancellation reasons to drive improvements in driver and rider retention.</span>
 </p>
-
-
 
 ## 📈 Business Insights Derived
 * **Revenue Leaders:** Identified which vehicle types generate the highest profit margins vs. booking volume.
