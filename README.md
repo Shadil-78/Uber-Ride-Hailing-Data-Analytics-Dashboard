@@ -4,20 +4,33 @@ An end-to-end data analytics project focused on ride-hailing performance. This p
 📌 Project Overview
 This project features a comprehensive Power BI Dashboard analyzing a dataset of 150,000+ Uber ride records. The analysis transforms raw transactional data into actionable business intelligence, focusing on revenue optimization, cancellation patterns, and vehicle performance.
 
-📊 Dashboard Highlights
-The report is divided into 6 specialized views to provide a 360-degree perspective on operations:
+## 🚀 Key Features
+* **Multi-Page Navigation:** Custom-built sidebar for seamless switching between Overview, Vehicle, Revenue, and Location insights.
+* **Executive Metrics:** Real-time tracking of **$51.85M in Total Revenue** and **93K+ Total Bookings**.
+* **Cancellation Deep-Dive:** Analysis of "Reason for Cancelling" to distinguish between customer-side and driver-side issues.
+* **Vehicle Segmentation:** Performance comparison across Auto, Bike, Go Mini, Go Sedan, Premier Sedan, and Uber XL.
 
-Home Page: An interactive landing page for seamless navigation between different analytical modules.
-Executive Overview: High-level KPIs including Total Revenue ($51.85M), Total Bookings (93K+), and average trip metrics.
-Vehicle Analysis: A deep dive into the performance of different segments like Auto, Bike, Sedan, and Uber XL.
-Revenue Insights: Breakdown of earnings by payment method (UPI, Cash, Wallet) and ride types.
-Location Intelligence: Spatial analysis of pickup and drop-off hotspots to identify high-demand zones.
-Rider & Driver Insights: Analysis of star ratings and satisfaction levels to ensure service quality.
+## 🛠️ Tech Stack
+* **Tool:** Power BI Desktop
+* **Data Modeling:** Star Schema (Fact and Dimension tables)
+* **Language:** DAX (for complex measures) and Power Query (for ETL)
+* **Visuals:** Custom icons and conditional formatting for enhanced UX
 
-🛠️ Tech Stack & Skills
+## 📊 Dashboard Preview
 
-Data Visualization: Power BI Desktop
-Data Modeling: Star Schema design with fact and dimension tables.
-DAX (Data Analysis Expressions): Created complex measures for YTD Revenue, Cancellation Rates, and Dynamic Rankings.
-ETL Process: Data cleaning and transformation using Power Query.
-UI/UX: Custom-designed navigation sidebar and categorical icons for an intuitive user experience.
+| Home Page | Executive Overview |
+|---|---|
+| ![Home](screenshots/Home.png) | ![Overview](screenshots/Overview.png) |
+
+| Vehicle Analysis | Revenue Insights |
+|---|---|
+| ![Vehicle](screenshots/Vehicle.png) | ![Revenue](screenshots/Revenue.png) |
+
+| Location Trends | Rider Ratings |
+|---|---|
+| ![Location](screenshots/Location.png) | ![Rider](screenshots/Rider.png) |
+
+## 📈 Business Insights Derived
+* **Revenue Leaders:** Identified which vehicle types generate the highest profit margins vs. booking volume.
+* **Operational Pain Points:** Isolated specific reasons for "No Driver Found" to suggest geographic expansion areas.
+* **Customer Loyalty:** Correlated rating trends with payment methods and ride distances.
